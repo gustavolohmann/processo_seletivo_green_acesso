@@ -66,9 +66,13 @@ npm install
 ### 2. Configure as Variáveis de Ambiente
 Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
 ```env
-DB_HOST=localhost
-DB_USER=seu_usuario
-DB_PASS=sua_senha
+PORT=
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
+DB_PORT=
+DB_DIALECT=
 ```
 
 ---
